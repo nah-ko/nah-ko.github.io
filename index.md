@@ -6,8 +6,8 @@ title: Project description pages
 
 Here's little descriptions of what my personal repositories aim for.
 
-’’’sh
+'''sh
 Some code
-’’’
+'''
 
 See U soon !
