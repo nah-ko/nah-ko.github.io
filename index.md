@@ -1,8 +1,13 @@
 ---
 title: Project description pages
 ---
-<H1>Projects description pages</H1>
-  Some text...</br>
-  <code> Some code </code>
-  <p>
-  See U soon !
+
+## Projects description pages
+
+Here's little descriptions of what my personal repositories aim for.
+
+‘‘‘
+Some code
+‘‘‘
+
+See U soon !
