@@ -7,9 +7,16 @@ title: Project description pages
 Here's little descriptions of what my personal repositories aim for.
 Each `_page` will be succinctly described here, dig into to read more informations about them.
 
-# Projects list
+### Projects list
 
 PolarTCXFetch
+myStravaTCXPush
+MUDaemon
+MBot
+myStuff
+Tools-project
+IoT-Flows
+
 
 
 See U soon !
