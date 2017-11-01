@@ -9,13 +9,13 @@ Each `_page` will be succinctly described here, dig into to read more informatio
 
 ### Projects list
 
-PolarTCXFetch
-myStravaTCXPush
-MUDaemon
-MBot
-myStuff
-Tools-project
-IoT-Flows
+-PolarTCXFetch
+-myStravaTCXPush
+-MUDaemon
+-MBot
+-myStuff
+-Tools-project
+-IoT-Flows
 
 
 
